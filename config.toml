@@ -1,6 +1,6 @@
 title        = "Kristian Kupsch"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-friend"
 paginate     = 10
 
 [params]
