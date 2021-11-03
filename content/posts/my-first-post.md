@@ -1,3 +1,13 @@
+---
+title: "My First Post"
+date: 2021-11-03T16:10:00+01:00
+draft: false
+toc: false
+images:
+tags:
+  - misc
+---
+
 My first Post also. Oder: Warum braucht es einen Blog mehr?
 
 In diesem Blog möchte ich meinen Weg im Bereich der Softwareentwicklung festhalten. Im besten Falle finden sich hier also allerhand spannende Themen oder Lösungsvorschläge die ich erarbeitet habe.\
