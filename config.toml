@@ -57,3 +57,15 @@ paginate     = 10
   disableJSON = false
   disableSVG = false
   disableXML = false
+
+  [[params.social]]
+  name = "xing"
+  url = "https://www.xing.com/profile/Kristian_Kupsch/"
+
+  [[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/kristian-kupsch/"
+
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/kristiankupsch/"
