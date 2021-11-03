@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Kristian Kupsch</title><link>/posts/</link><description>Recent content in Posts on Kristian Kupsch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/my-first-post/</guid><description>My first Post also. Oder: Warum braucht es einen Blog mehr?
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Kristian Kupsch</title><link>/posts/</link><description>Recent content in Posts on Kristian Kupsch</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/my-first-post/</guid><description>My first Post also. Oder: Warum braucht es einen Blog mehr?
 In diesem Blog möchte ich meinen Weg im Bereich der Softwareentwicklung festhalten. Im besten Falle finden sich hier also allerhand spannende Themen oder Lösungsvorschläge die ich erarbeitet habe.
 Im schlechtesten Falle habe ich meine Reise durch die Softwareentwicklung festgehalten und ich kann in ein paar Monden mal wieder lesen welche Ansichten zur Softwareentwicklung ich so hatte.
-Auf der Homepage steht als Untertitel &amp;ldquo;Software Craftsman&amp;rdquo;.</description></item></channel></rss>
+Auf der Homepage steht als Untertitel &amp;ldquo;Software Craftsman&amp;rdquo;.</description><content type="html"><![CDATA[<p>My first Post also. Oder: Warum braucht es einen Blog mehr?</p>
+<p>In diesem Blog möchte ich meinen Weg im Bereich der Softwareentwicklung festhalten. Im besten Falle finden sich hier also allerhand spannende Themen oder Lösungsvorschläge die ich erarbeitet habe.<br>
+Im schlechtesten Falle habe ich meine Reise durch die Softwareentwicklung festgehalten und ich kann in ein paar Monden mal wieder lesen welche Ansichten zur Softwareentwicklung ich so hatte.</p>
+<p>Auf der Homepage steht als Untertitel &ldquo;Software Craftsman&rdquo;.<br>
+Warum nicht einfach Softwareentwickler oder Developer mag man sich fragen.</p>
+<p>Ich bin der Meinung das Entwickeln von Software ist mehr als nur das schreiben von Code oder die Konzeptionierung der schönsten Architektur.</p>
+<p>Dazu kommen noch allerhand andere Dinge wie UX, Dokumentation usw. Alles zusammen macht gute Software aus.<br>
+Das ist der Anspruch dem ich versuche mit meiner Arbeit gerecht zu werden.
+Manchmal klappt es schon ganz gut, in der Rückschau sieht es manchmal etwas anders aus.<br>
+Man lernt halt nie aus.</p>
+<p>Zur Zeit beschäftige ich mich viel mit der Architektur von Legacy Systemen und dem Aufbrechen alter Strukturen.
+Domain-Driven Design ist hier ein Schlagwort was der eine oder andere vielleicht schon gehört hat.</p>
+<p>Wahrscheinlich drehen sich die nächsten Posts also um dieses Thema.</p>
+<p>Das war also &ldquo;My fist Post&rdquo;.. Hat sich ganz gut angefühlt eigentlich.</p>
+]]></content></item></channel></rss>
