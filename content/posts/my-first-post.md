@@ -28,4 +28,4 @@ Domain-Driven Design ist hier ein Schlagwort was der eine oder andere vielleicht
 
 Wahrscheinlich drehen sich die nächsten Posts also um dieses Thema.
 
-Das war also "My fist Post"... Hat sich ganz gut angefühlt eigentlich.
+Das war also "My first Post"... Hat sich ganz gut angefühlt eigentlich.
