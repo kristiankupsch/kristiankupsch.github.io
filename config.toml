@@ -72,5 +72,5 @@ paginate     = 10
   url = "https://github.com/kristiankupsch/"
 
   [[params.social]]
-  name = "mail"
-  url = "mailto://kupschkristian@gmail.com"
+  name = "email"
+  url = "kupschkristian@gmail.com"
