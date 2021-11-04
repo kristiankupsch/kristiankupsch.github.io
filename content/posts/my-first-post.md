@@ -19,7 +19,7 @@ Warum nicht einfach Softwareentwickler oder Developer mag man sich fragen.
 Ich bin der Meinung das Entwickeln von Software ist mehr als nur das Schreiben von Code oder die Konzeptionierung der schönsten Architektur.
 
 Dazu kommen noch allerhand andere Dinge wie UX, Dokumentation usw. Alles zusammen macht gute Software aus.\
-Das ist der Anspruch dem ich versuche mit meiner Arbeit gerecht zu werden.
+Das ist der Anspruch, dem ich versuche mit meiner Arbeit gerecht zu werden.
 Manchmal klappt es schon ganz gut, in der Rückschau sieht es manchmal etwas anders aus.\
 Man lernt halt nie aus.
 
@@ -28,4 +28,4 @@ Domain-Driven Design ist hier ein Schlagwort was der eine oder andere vielleicht
 
 Wahrscheinlich drehen sich die nächsten Posts also um dieses Thema.
 
-Das war also "My fist Post".. Hat sich ganz gut angefühlt eigentlich.
+Das war also "My fist Post"... Hat sich ganz gut angefühlt eigentlich.
